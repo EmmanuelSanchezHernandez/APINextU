@@ -1,0 +1,18 @@
+{
+  "name": "APINEXTU",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webapp.js",
+  "scripts": {
+    "dev": "nodemon webapp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  }
+}
